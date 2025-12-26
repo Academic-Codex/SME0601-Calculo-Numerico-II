@@ -1,0 +1,12 @@
+REPO_TAGLINE: Iterative solvers • PDE • numerical methods
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: workload
+SITE_URL: https://academic-codex.github.io/SME0601-Calculo-Numerico-II
+
+BG_1: "#0E1A2B"
+BG_2: "#3B1033"
+TEXT_MAIN: "#FFF1FA"
+TEXT_MUTED: "#F0C7E3"
+ACCENT: "#F472B6"
+CARD_RADIUS: "18"
